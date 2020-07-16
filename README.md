@@ -9,7 +9,7 @@ To have a good coding style and documents management, I refer to [pointNet](http
 ## Installation and Run
 The code is tested in:
 
-    Python 3.6, Tensorflow 1.0.1, CUDA 8.0 and cuDNN 5.1 on Ubuntu 14.04.</br>
+    Python 3.6, Tensorflow 1.0.1, CUDA 8.0 and cuDNN 5.1 on Ubuntu 14.04.
     
 A new model can be trained using simply a line of code:
 
