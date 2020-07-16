@@ -7,7 +7,10 @@ To gain a higher test accuracy, Technology like Xavier(Init method) weight decay
 To have a good coding style and documents management, I refer to [pointNet](https://github.com/charlesq34/pointnet) when I code and construct the architecture of this project.</br>
 
 ## Installation and Run
-The code is tested with Python 3.6, Tensorflow 1.0.1, CUDA 8.0 and cuDNN 5.1 on Ubuntu 14.04.</br>
+The code is tested in:
+
+    Python 3.6, Tensorflow 1.0.1, CUDA 8.0 and cuDNN 5.1 on Ubuntu 14.04.</br>
+    
 A new model can be trained using simply a line of code:
 
     python train.py
