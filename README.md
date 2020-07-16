@@ -4,7 +4,7 @@ This is an implementatoin of deep neural network for the image classification ta
 
 To gain a higher test accuracy, Technology like Xavier(Init method) weight decay, batch normalization， dropout(to avoid overfitting) and [factional max-pooling](https://arxiv.org/abs/1412.6071)(alternative for 2x2 max-pooling) are involved in this implementatoin. And as for the net arcihtecture of my implementation, generally I imitate the net architecture illustrated in the paper of [Fractional Max-pooling](https://arxiv.org/abs/1412.6071), but have less layers.</br>
 
-To have a good coding style and documents management, I refer to [pointNet](https://github.com/charlesq34/pointnet) when I code and construct the architecture of this project.</br>
+To have a good coding style and documents management, I refer to [pointNet](https://github.com/charlesq34/pointnet) when I code and design the architecture of this project.</br>
 
 ## Installation and Run
 The code is tested in:
