@@ -1,5 +1,4 @@
 # hello-CIFAR-10
-code tested in python3.6, tensorflow-gpu==1.0.1
 ## Introduction
 This is an implementatoin of deep neural network for the image classification task on the [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) dataset. Although CIFAR-10 seem a entry-level dataset for image classificatoin, it's not easy to gain a test precision over 90%. [This page](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130) summarize the SOTA methods on this task.</br>
 
